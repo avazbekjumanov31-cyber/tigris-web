@@ -19,7 +19,7 @@ const Caruselav = () => {
 
   return (
     <>
-      <div className='bg-green-900 flex text-white font-bold justify-around '>
+      <div className='bg-green-950 flex text-white font-bold justify-around '>
 
         <div>
           <h1 className='text-6xl'>
@@ -42,7 +42,7 @@ const Caruselav = () => {
       </div>
 
 
-      <div className='bg-green-900 '>
+      <div className='bg-green-950 h-250'>
 
       
 

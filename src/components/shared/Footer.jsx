@@ -3,7 +3,7 @@ import { TbInfinity } from "react-icons/tb";
 function Footer() {
   return (
     <>
-     <div className='bg-green-900 h-60 text-white font-bold flex justify-around gap-100'>
+     <div className='bg-green-950 h-60 text-white font-bold flex justify-around gap-100'>
       <div>
           <img className='w-50' src="https://cdn.prod.website-files.com/66ae6d5d335aaf4dfce34142/66b50b6f5aa3ae6e80a0c19e_Frame%201034.avif" alt="" />
           <p className='mt-3'>Energize your life, the Tigris way</p>

@@ -20,7 +20,7 @@ const Cardav = () => {
 
   return (
     <>
-    <div className='bg-green-900 h-760'>
+    <div className='bg-green-950 h-760 '>
       <img className='w-20 ml-175' src="https://cdn.prod.website-files.com/66ae6d5d335aaf4dfce34142/66b1219ce5a0e9592f79e580_Untitled%20design%20(28).avif" alt="" />
       <img className='w-150 ml-110' src="https://cdn.prod.website-files.com/66ae6d5d335aaf4dfce34142/66b0e4bbee36803f4b4086f7_rdethfsb.avif" alt="" />
       <p className='ml-140 text-white'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />
