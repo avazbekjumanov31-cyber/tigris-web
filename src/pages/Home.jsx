@@ -13,8 +13,9 @@ function Home() {
     <div>
       <Hero/>
       <Flavors/>
-      <About/>
+     
       <Carusel/>
+       <About/>
       <Card/> 
       <Caruselav/>
       <Cardav/>
